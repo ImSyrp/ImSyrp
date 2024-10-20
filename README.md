@@ -1,8 +1,8 @@
-<h3 align="center">Hello there, I'm Osman 👋</h3>
+<h3 align="center">Hello there, I'm Dylan 👋</h3>
 
 <p align="center" >
   <samp>
-    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+    I'm <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
