@@ -1,19 +1,16 @@
-#<h3 align="center">Hello there, I'm Dylan 👋</h3>
-#hola
-<p align="center" >
-  <samp>
-    I'm <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
-    <br/> (<em>ex</em>)Fulltime student.
-      <br/>
-Creating games for fun, composing songs,
-          <br/>
-continuously learning, wanting to help the community
-  </samp>
-  <br/>
-  <br/>
-  <br/>
-</p>
+# Hi 👋 My name is Sungminyoo
+
+<div align=center>
+  
+![ajou univ](http://software.ajou.ac.kr/images/main/logo.png)
+
+**I am majoring in computer engineering and software at Ajou University.**
+
+
+<img align="middle" src="https://i.imgur.com/3Sdo6z8.gif" />
+
+
+</div>
 
 <a href="https://twitter.com/vaporjawn">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
