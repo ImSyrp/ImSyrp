@@ -1,4 +1,4 @@
-# Hi 👋 My name is Sungminyoo
+# Hello there, I'm Dylan 👋
 
 <div align=center>
 **I am majoring in computer engineering and software at Ajou University.**
