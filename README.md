@@ -1,4 +1,4 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world! I am Dylan <br/>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> Hello world! I am Dylan <br/>
 
 ---
 
