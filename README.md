@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+    I'm 18 years old, developer from India...
   <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
