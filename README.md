@@ -4,9 +4,8 @@
   <samp>
     I'm 18 years old, developer from India...
   <br/> PHP enthusiast...
-    <br/> (<em>ex</em>)Fulltime student.
       <br/>
-Creating games for fun, composing songs,
+Creating code for love, and gamer,
           <br/>
 continuously learning, wanting to help the community
   </samp>
