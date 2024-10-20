@@ -34,7 +34,7 @@
 
 ### Languages  
 
-| [<img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PHPD" alt="PHP logo" width="34">] | [<img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/JavaScript.svg" alt="JS logo" width="34">] | [<img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PythonD.svg" alt="Python logo" width="34">] | [<img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CPP.svg" alt="CPP logo" width="24">] |  [<img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/C.svg" alt="C logo" width="24">] |  [<img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CS.svg" alt="CS logo" width="24">] |
+| <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PHPD.svg" alt="PHP logo" width="34"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/JavaScript.svg" alt="JS logo" width="34"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PythonD.svg" alt="Python logo" width="34"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CPP.svg" alt="CPP logo" width="24"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/C.svg" alt="C logo" width="24"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CS.svg" alt="CS logo" width="24"> |
 |---|---|---|---|---|---|
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  
