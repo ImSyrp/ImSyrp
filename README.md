@@ -1,5 +1,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world! I am Dylan <br/>
+
 ---
+
 <p align="center">
   <samp>
     I'm an 18-year-old developer from Nicaragua,
