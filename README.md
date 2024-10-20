@@ -1,4 +1,5 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world!, I am Dylan
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world!, I am Dylan 
+<br/>
 
 <p align="center" >
   <samp>
@@ -12,7 +13,6 @@ continuously learning, wanting to help the community
 </p>
 
 #
-<br />
 <br />
 
 Hi, I'm Victor Williams, a Full Stack Developer 🚀 from Philadelphia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BankMobile](https://bankmobile.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
