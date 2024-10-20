@@ -9,9 +9,6 @@ Creating code for love, and gamer,
           <br/>
 continuously learning, wanting to help the community
   </samp>
-  <br/>
-  <br/>
-  <br/>
 </p>
 
 #
