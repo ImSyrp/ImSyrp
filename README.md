@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16px"> Hello world! I am Dylan.<br/>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16px"> Hello world! I am Dylan 👋.<br/>
 
 ---
 
@@ -7,7 +7,7 @@
     I'm an 18-year-old developer from Nicaragua,
   <br/> passionate about PHP...
   <br/>
-  Creating code with love and driven by the joy of solving creative problems.
+   love coding, learning, and solving creative challenges.
   <br/>
   I have a growing passion for learning new languages.
   <br/>
@@ -24,44 +24,25 @@
 <br />
 
 **Talking about Personal Stuff:**  
-- 👨🏽‍💻 I’m currently working on improving my tech skills.  
+- 🥀 I’m currently working on improving my tech skills.  
 - 🌱 I’m learning Java right now.  
 - 👯 I’m looking to collaborate on projects to enhance my skills.  
 - 💬 Ask me anything; I’d be happy to help!  
-- ⚡️ *If you can think it, you can code it!*  
+- 💻 *If you can think it, you can code it!*  
 
 ---
 
 ### Languages  
-
 
 | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PHPD.svg" alt="PHP logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/JavaScript.svg" alt="JS logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PythonD.svg" alt="Python logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CPP.svg" alt="CPP logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/C.svg" alt="C logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CS.svg" alt="CS logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/JavaD.svg" alt="Java logo" width="30"> |
 |---|---|---|---|---|---|---|
 
 ---
 
-### Technologies  
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)  
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)  
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)  
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)  
-![React](https://img.shields.io/badge/-React-000?&logo=React)  
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)  
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)  
+### Technologies
 
----
-
-### Full Stack Projects  
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)  
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)  
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)  
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)  
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)  
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)  
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)  
+| <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/NodeJSD.svg" alt="NodeJs logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/MySQLD.svg" alt="Mysql logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/MongoDB.svg" alt="MongoDB logo" width="30"> |
+|---|---|---|---|---|---|---|
 
 ---
 
@@ -75,4 +56,4 @@
 
 ---
 
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ImSyrp&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSyrp&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
