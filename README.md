@@ -1,4 +1,4 @@
-### HI 👋🏽, I'm Dylan
+### Hey 👋🏽
 
 <p align="center" >
   <samp>
