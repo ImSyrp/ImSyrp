@@ -3,7 +3,7 @@
 <p align="center" >
   <samp>
     I'm 18 years old, developer from India...
-  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+  <br/> PHP enthusiast...
     <br/> (<em>ex</em>)Fulltime student.
       <br/>
 Creating games for fun, composing songs,
