@@ -1,5 +1,4 @@
-### Hey 👋🏽, I'm [Dylan!]
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+### HI 👋🏽, I'm Dylan
 
 <p align="center" >
   <samp>
