@@ -1,8 +1,19 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello world!, I am Dylan
 
-<div align=center>
-**I am majoring in computer engineering and software at Ajou University.**
-</div>
+<p align="center" >
+  <samp>
+    My name is <em>Alex</em>. I am a Fullstack 'n' mobile developer... 
+  <br/> Javascript enthusiast... ReactJs lover. React Native addict. 
+    <br/> (<em>ex</em>)Fulltime student.
+      <br/>
+Creating games for fun, composing songs,
+          <br/>
+continuously learning, wanting to help the community
+  </samp>
+  <br/>
+  <br/>
+  <br/>
+</p>
 
 <a href="https://twitter.com/vaporjawn">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
