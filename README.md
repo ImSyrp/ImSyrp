@@ -2,19 +2,22 @@
 
 <p align="center" >
   <samp>
-    I'm 18 years old, developer from India...
+    I'm 18 years old, developer from Nicaragua...
   <br/> PHP enthusiast...
       <br/>
-Creating code for love, and gamer,
+Creating code for love, i'm a creative problem solving enthusiast,
           <br/>
+    constantly growing love for languages.
+    <br/>
+currently, I'm studying System Engineer
 continuously learning, wanting to help the community
+    <br/>
+I enjoy Terraia for Relogic
   </samp>
 </p>
 
 #
 <br />
-
-Hi, I'm Victor Williams, a Full Stack Developer 🚀 from Philadelphia, currently, I'm a Software Engineer at 🙍🏽‍♂️ [@BankMobile](https://bankmobile.com). I'm a creative problem solving enthusiast, with a constantly growing love for languages. Beside's programming, I enjoy Super Smash Bros Melee for the Nintendo GameCube.
 
 **Talking about Personal Stuffs:**
 
