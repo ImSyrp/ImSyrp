@@ -23,7 +23,7 @@
 * 💻 Focused on backend and full-stack development
 * 🌱 Currently improving my software engineering and infrastructure skills
 * 🛠️ Building projects with modern web technologies and APIs
-* 🐧 Experienced installing and configuring Linux environments
+* 🐧 Experience configuring Linux environments and virtual machines
 * 🔐 Exploring cybersecurity and networking concepts
 * 🤝 Open to collaboration and new learning opportunities
 * 📚 Interested in clean code, scalability, and good development practices
@@ -47,14 +47,15 @@
 ### Package Managers & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=npm,pnpm,composer" />
+  <img src="https://skillicons.dev/icons?i=npm,pnpm" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=composer" height="48" />
 </p>
 
 ### Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=digitalocean" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=digitalocean,mssql" height="48" />
 </p>
 
 ### Operating Systems & Virtualization
@@ -74,14 +75,22 @@
 
 ## 🧠 Additional Experience
 
-* ⚙️ Experience configuring virtual machines and operating systems
+* ⚙️ Experience configuring operating systems and virtual machines
 * ☁️ Worked with cloud storage APIs such as DigitalOcean Spaces (S3-compatible)
 * 🌐 API testing with Postman and cURL
 * 🧩 Experience using Cisco Packet Tracer
 * 🐳 Worked with Docker environments and local development workflows
-* 📦 Currently using pnpm instead of npm for package management
+* 📦 Currently using pnpm for package management
 * 🎮 Built personal experiments with Godot
 * 🧪 Interested in cybersecurity and Linux environments
+
+---
+
+## 👀 Visitor Count
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImSyrp&style=for-the-badge&color=blueviolet" />
+</div>
 
 ---
 
@@ -93,7 +102,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ImSyrp\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
 
-### 📈 GitHub Stats
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImSyrp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSyrp&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <br/>
 
@@ -102,3 +115,11 @@
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ImSyrp\&theme=tokyonight\&no-frame=true\&margin-w=10\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
