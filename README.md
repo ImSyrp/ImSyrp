@@ -1,4 +1,4 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16px"> Hello world! I am Dylan 👋.<br/>
+# Hi there, I'm Dylan 👋
 
 <p align="center">
   <samp>
@@ -104,22 +104,8 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImSyrp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSyrp&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImSyrp\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ImSyrp\&theme=tokyonight\&no-frame=true\&margin-w=10\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
