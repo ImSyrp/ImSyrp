@@ -1,55 +1,104 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="16px"> Hello world! I am Dylan 👋.<br/>
 
----
-
 <p align="center">
   <samp>
-    I'm an 18-year-old developer from Nicaragua,
-  <br/> passionate about PHP...
-  <br/>
-   love coding, learning, and solving creative challenges.
-  <br/>
-  I have a growing passion for learning new languages.
-  <br/>
-  Currently, I'm studying Systems Engineering,
-  <br/>
-  always learning and eager to contribute to the community.
-  <br/>
-  I enjoy playing Terraria by Re-Logic.
+    Systems Engineering student from Nicaragua 🇳🇮
+    <br/>
+    Passionate about backend development, clean architecture, and problem solving.
+    <br/>
+    I enjoy building scalable web applications and learning modern technologies.
+    <br/>
+    I like programming with PHP and currently learning Java.
+    <br/>
+    Interested in software engineering, infrastructure, and cybersecurity.
+    <br/>
+    Outside of coding, I enjoy relaxing in Stardew Valley 🌱
   </samp>
 </p>
 
 ---
 
-<br />
+## 🚀 About Me
 
-**Talking about Personal Stuff:**  
-- 🥀 I’m currently working on improving my tech skills.  
-- 🌱 I’m learning Java right now.  
-- 👯 I’m looking to collaborate on projects to enhance my skills.  
-- 💬 Ask me anything; I’d be happy to help!  
-- 💻 *If you can think it, you can code it!*  
-
----
-
-### Languages  
-
-| <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PHPD.svg" alt="PHP logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/JavaScript.svg" alt="JS logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/PythonD.svg" alt="Python logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CPP.svg" alt="CPP logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/C.svg" alt="C logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/CS.svg" alt="CS logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/JavaD.svg" alt="Java logo" width="30"> |
-|---|---|---|---|---|---|---|
+* 💻 Focused on backend and full-stack development
+* 🌱 Currently improving my software engineering and infrastructure skills
+* 🛠️ Building projects with modern web technologies and APIs
+* 🐧 Experienced installing and configuring Linux environments
+* 🔐 Exploring cybersecurity and networking concepts
+* 🤝 Open to collaboration and new learning opportunities
+* 📚 Interested in clean code, scalability, and good development practices
 
 ---
 
-### Technologies
+## 🧰 Tech Stack
 
-| <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/NodeJSD.svg" alt="NodeJs logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/MySQLD.svg" alt="MySQL logo" width="30"> | <img src="https://raw.githubusercontent.com/ImSyrp/ImSyrp/refs/heads/main/icons/MongoDB.svg" alt="MongoDB logo" width="30"> |
-|---|---|---|
+### Languages & Markup
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,java,js,python,cpp,c,cs,html,css" />
+</p>
+
+### Frameworks & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,express,vite,nodejs,tailwind,docker,git,github,figma,postman,godot" />
+</p>
+
+### Package Managers & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,composer" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=digitalocean" height="48" />
+</p>
+
+### Operating Systems & Virtualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=virtualbox" height="48" />
+</p>
+
+### IDEs & Software
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,discord" />
+</p>
 
 ---
+
+## 🧠 Additional Experience
+
+* ⚙️ Experience configuring virtual machines and operating systems
+* ☁️ Worked with cloud storage APIs such as DigitalOcean Spaces (S3-compatible)
+* 🌐 API testing with Postman and cURL
+* 🧩 Experience using Cisco Packet Tracer
+* 🐳 Worked with Docker environments and local development workflows
+* 📦 Currently using pnpm instead of npm for package management
+* 🎮 Built personal experiments with Godot
+* 🧪 Interested in cybersecurity and Linux environments
+
+---
+
+## 📊 Profile Stats
 
 <div align="center">
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=ImSyrp&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&cache_seconds=86400" />
-  
-  <img height="101" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImSyrp&hide=html,css&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&cache_seconds=86400" />
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ImSyrp\&theme=tokyonight\&hide_border=true)](https://git.io/streak-stats)
+
+### 📈 GitHub Stats
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImSyrp\&theme=tokyo-night\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
 
 ---
